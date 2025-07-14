@@ -12,7 +12,7 @@ I'm an undergraduate student at Syracuse University, completing a dual program i
 About Me
 ======
 
-I'm currently taking part in a summer research program where I'm studying social science research, text analysis tools, and AI.
+I'm currently taking part in a summer research program where I'm studying social science research, text analysis tools, and AI. Yay!
 
 Getting started
 ======
