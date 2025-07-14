@@ -1,6 +1,7 @@
 ---
-permalink: /
-title: "Welcome to Kaitlyn's Page"
+layout: about-custom
+permalink: /about/
+title: "Kaitlyn Mann"
 author_profile: true
 redirect_from: 
   - /about/
